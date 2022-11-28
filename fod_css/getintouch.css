@@ -42,9 +42,19 @@ form #submit {
 form #message {
     height: 80px;
 }
-.frame{
+
+.frame {
     margin: 10px 50px;
 }
-.frame iframe{
+
+.frame iframe {
     width: 100%;
+}
+
+.gitintouch {
+    border: 1px solid white;
+}
+
+.email:active {
+    border: 1px solid white;
 }
